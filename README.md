@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola 👋, Soy Jhair Casas
 
-<!--
-**jhaircv/jhaircv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería de Software** en SENATI (2024 – Actualidad)  
+💻 Apasionado por el **desarrollo backend** y la creación de soluciones eficientes con **Java**, **Spring Boot**, **PHP**, **MySQL** y **PostgreSQL**.  
+📚 En constante aprendizaje de nuevas tecnologías y metodologías ágiles como **Scrum** y **Kanban**.  
+🚀 Actualmente desarrollando proyectos académicos y personales, que puedes explorar aquí en mi perfil.  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- **Lenguajes:** Java, PHP, Python, JavaScript  
+- **Frameworks:** Spring Boot, Bootstrap  
+- **Bases de datos:** MySQL, PostgreSQL, Oracle  
+- **Herramientas:** Git, GitHub, VS Code, IntelliJ IDEA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+- Email: jhaircasas34@gmail.com  
+- LinkedIn: www.linkedin.com/in/jhair-casas-579791372  
+
+---
+⭐ *Explora mis repositorios y no dudes en dejar una estrella si algo te gusta.*
+
