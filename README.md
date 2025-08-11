@@ -13,7 +13,7 @@
 
 ## 📫 Cómo contactarme
 - Email: jhaircasas34@gmail.com  
-- LinkedIn: www.linkedin.com/in/jhair-casas-579791372  
+- LinkedIn: www.linkedin.com/in/jhaircv 
 
 ---
 ⭐ *Explora mis repositorios y no dudes en dejar una estrella si algo te gusta.*
